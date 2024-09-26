@@ -47,4 +47,20 @@ button{
     background-color: #89413e;
 }
 
+li {
+    background-color: #d9c4c4;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    list-style-type: none;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s;
+    width: 380px;
+}
+
+
 
